@@ -1,0 +1,15 @@
+/home/brad1996/Hashtables/bin/Debug/net7.0/Hashtables
+/home/brad1996/Hashtables/bin/Debug/net7.0/Hashtables.deps.json
+/home/brad1996/Hashtables/bin/Debug/net7.0/Hashtables.runtimeconfig.json
+/home/brad1996/Hashtables/bin/Debug/net7.0/Hashtables.dll
+/home/brad1996/Hashtables/bin/Debug/net7.0/Hashtables.pdb
+/home/brad1996/Hashtables/obj/Debug/net7.0/Hashtables.csproj.AssemblyReference.cache
+/home/brad1996/Hashtables/obj/Debug/net7.0/Hashtables.GeneratedMSBuildEditorConfig.editorconfig
+/home/brad1996/Hashtables/obj/Debug/net7.0/Hashtables.AssemblyInfoInputs.cache
+/home/brad1996/Hashtables/obj/Debug/net7.0/Hashtables.AssemblyInfo.cs
+/home/brad1996/Hashtables/obj/Debug/net7.0/Hashtables.csproj.CoreCompileInputs.cache
+/home/brad1996/Hashtables/obj/Debug/net7.0/Hashtables.dll
+/home/brad1996/Hashtables/obj/Debug/net7.0/refint/Hashtables.dll
+/home/brad1996/Hashtables/obj/Debug/net7.0/Hashtables.pdb
+/home/brad1996/Hashtables/obj/Debug/net7.0/Hashtables.genruntimeconfig.cache
+/home/brad1996/Hashtables/obj/Debug/net7.0/ref/Hashtables.dll
