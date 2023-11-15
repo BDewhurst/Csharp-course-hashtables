@@ -8,6 +8,9 @@ namespace Hashtables
     {
         static void Main(string[] args)
         {
+
+  
+
             Hashtable studentsTable = new Hashtable();
             Student stud1 = new Student(1, "Maria", 98);
             Student stud2 = new Student(2, "Frank", 48);
